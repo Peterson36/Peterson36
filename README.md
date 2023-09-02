@@ -11,6 +11,6 @@
   <br>
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vini01072003&theme=gotham)
+![Github activity graph](https://github.com/Peterson36)
 
 ![Snake animation](https://github.com/Vini01072003/Vini01072003/blob/output/github-contribution-grid-snake.svg)
